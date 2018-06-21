@@ -4,7 +4,7 @@ public class FirstGitDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-        System.out.println("µÚÒ»´Î¸ü¸Ä");
+        System.out.println("ç¬¬ä¸€æ¬¡");
 	}
 
 }

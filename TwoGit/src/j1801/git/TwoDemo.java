@@ -4,8 +4,8 @@ public class TwoDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-        //µÚÒ»´Î¸ü¸Ä
-		//µÚ¶þ´Î
+        //ç¬¬ä¸€æ¬¡
+		//ç¬¬äºŒæ¬¡
 	}
 
 }
